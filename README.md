@@ -30,4 +30,7 @@ $ http://localhost:3000/invoke?query=Affiche%20mon%20panier
 
 # Delete product from basket
 Delete not implemented totaly, don't how to process it
+
+# Recherche par OpenAI
+http://localhost:3000/invoke?query=Chercher%20chez%20Ikea%20si%20un%20sapin%20est%20disponible
 ```
